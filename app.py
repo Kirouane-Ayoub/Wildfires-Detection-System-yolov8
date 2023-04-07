@@ -71,7 +71,7 @@ with tab1 :
                              iou=iou,
                              device=DEVICE_NAME)
             for result in results : 
-                # depackage results
+                # unpack results
                 bboxs = result.boxes 
                 for box in bboxs : 
                     # bboxes
