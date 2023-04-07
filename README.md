@@ -1,4 +1,9 @@
 # Wildfires Detection System Using YOLOv8
+
+![Screenshot at 2023-04-07 17-26-05](https://user-images.githubusercontent.com/99510125/230643406-d605b4c1-7650-4489-a654-c5a948bcad0c.png)
+
+
+
 Wildfires Detection System Using YOLOv8 is a computer vision system that uses the YOLOv8 object detection algorithm to identify and locate wildfires in real-time from aerial footage. The system is designed to help firefighters and emergency responders quickly identify the location and extent of wildfires, which can help them more effectively deploy resources and contain the fire.
 
 The YOLOv8 algorithm is a state-of-the-art object detection algorithm that uses deep neural networks to detect and classify objects in images or video streams. It is based on the You Only Look Once (YOLO) architecture, which allows it to process images very quickly and accurately, making it well-suited for real-time applications like wildfire detection.
